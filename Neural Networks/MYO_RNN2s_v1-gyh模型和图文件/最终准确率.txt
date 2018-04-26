@@ -1,0 +1,9 @@
+traing iter: 994, test accuracy : 0.8595041036605835, loss : 1.0952324867248535
+traing iter: 995, test accuracy : 0.8567492961883545, loss : 1.083164930343628
+traing iter: 996, test accuracy : 0.8677685856819153, loss : 1.0305430889129639
+traing iter: 997, test accuracy : 0.8677685856819153, loss : 1.0365327596664429
+traing iter: 998, test accuracy : 0.8512396812438965, loss : 1.041855812072754
+traing iter: 999, test accuracy : 0.8705233931541443, loss : 1.019566297531128
+
+final test accuracy: 0.8705233931541443
+best epoch's test accuracy: 0.8815426826477051
